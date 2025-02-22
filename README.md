@@ -2,7 +2,6 @@
 
 - 🔭 Cursando Ciência da Computação
 - 🌱 Estudando C#
-- 📫 Contate-me no email: ericksuzano2812003@gmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
