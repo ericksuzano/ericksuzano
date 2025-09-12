@@ -1,5 +1,6 @@
-## Prazer, me chamo Erick! 👋
-
+## ABOUT ME
+- Junior Front End Developer
+#Hello World,👋
 - 🔭 Cursando Ciência da Computação
 - 🌱 Estudando C#
 <div style="display: inline_block"><br>
