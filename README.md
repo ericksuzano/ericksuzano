@@ -5,7 +5,7 @@
 Erick Suzano here, a Junior Front-End Developer passionate about creating beautiful and functional user interfaces. 
 Currently a Computer Science student, I am always seeking new learning opportunities.
 
-## Vamos nos conectar?
+## Let's connect?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-suzano-367102266)
 
