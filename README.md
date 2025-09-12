@@ -10,11 +10,10 @@ Currently a Computer Science student, I am always seeking new learning opportuni
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-suzano-367102266)
 
 ## MY GIT STATS
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksuzano&show_icons=true&theme=radical)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuzano&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericksuzano&theme=radical)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericksuzano&show_icons=true&theme=radical" alt="Erick's GitHub stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuzano&layout=compact&theme=radical" alt="Top Linguagens" width="250"/>
+</div>
 
 ## Languages & Skills
 
