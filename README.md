@@ -11,9 +11,10 @@ Currently a Computer Science student, I am always seeking new learning opportuni
 
 ## MY GIT STATS
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericksuzano&show_icons=true&theme=radical" alt="Erick's GitHub stats" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuzano&layout=compact&theme=radical" alt="Top Linguagens" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ericksuzano&show_icons=true&theme=radical" alt="Erick's GitHub stats" style="width: 300px; height: 150px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksuzano&layout=compact&theme=radical" alt="Top Linguagens" style="width: 300px; height: 150px; object-fit: contain;" />
 </div>
+
 
 ## Languages & Skills
 
