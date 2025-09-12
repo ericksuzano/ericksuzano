@@ -1,6 +1,6 @@
-# Olá, Mundo! 👋
+# Hello, World! 👋
 
-## Sobre mim
+## About Me
 
 Sou Erick Suzano, Desenvolvedor Front-End Júnior apaixonado por criar interfaces bonitas e funcionais.  
 Atualmente cursando **Ciência da Computação** e sempre buscando aprender coisas novas.
@@ -9,9 +9,7 @@ Atualmente cursando **Ciência da Computação** e sempre buscando aprender cois
 
 ## Tecnologias & Skills
 
-<img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" />
+<img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" />
 
 ---
 
