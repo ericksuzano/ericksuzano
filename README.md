@@ -1,11 +1,15 @@
-## ABOUT ME
+### ABOUT ME
 - Junior Front End Developer
-#Hello World,👋
+##
+
+####Hello World,👋
+I'm Erick Suzano and here you can find my developed projects!
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando C#
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
 </div>
 
 ##
