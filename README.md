@@ -1,20 +1,31 @@
-### ABOUT ME
-- Junior Front End Developer
-##
+# Olá, Mundo! 👋
 
-####Hello World,👋
-I'm Erick Suzano and here you can find my developed projects!
-- 🔭 Cursando Ciência da Computação
+## Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
-</div>
+Sou Erick Suzano, Desenvolvedor Front-End Júnior apaixonado por criar interfaces bonitas e funcionais.  
+Atualmente cursando **Ciência da Computação** e sempre buscando aprender coisas novas.
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/erick-suzano-367102266" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## Tecnologias & Skills
+
+<img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" />
+
+---
+
+## Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-suzano-367102266)
+
+---
+
+## Meus projetos
+
+Aqui você pode conferir meus projetos que estou desenvolvendo e aprimorando minhas habilidades.
+
+---
+
+**Obrigado pela visita!** 🚀  
+Fique à vontade para entrar em contato ou explorar meu repositório.
