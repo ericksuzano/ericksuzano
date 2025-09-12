@@ -18,8 +18,3 @@ Aqui você pode conferir meus projetos que estou desenvolvendo e aprimorando min
 ## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-suzano-367102266)
-
----
-
-**Obrigado pela visita!** 🚀  
-Fique à vontade para entrar em contato ou explorar meu repositório.
