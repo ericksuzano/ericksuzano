@@ -2,10 +2,8 @@
 
 ## About Me
 
-Sou Erick Suzano, Desenvolvedor Front-End Júnior apaixonado por criar interfaces bonitas e funcionais.  
-Atualmente cursando **Ciência da Computação** e sempre buscando aprender coisas novas.
-
----
+Erick Suzano here, a Junior Front-End Developer passionate about creating beautiful and functional user interfaces. 
+Currently a Computer Science student, I am always seeking new learning opportunities.
 
 ## Vamos nos conectar?
 
