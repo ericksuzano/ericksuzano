@@ -2,7 +2,7 @@
 
 ## About Me
 
-Erick Suzano here, a Junior Front-End Developer passionate about creating beautiful and functional user interfaces. 
+Erick Suzano here, a Junior Full-Stack Developer passionate about creating beautiful and functional user interfaces. 
 Currently a Computer Science student, I am always seeking new learning opportunities.
 
 ## Let's connect?
